@@ -1,0 +1,14 @@
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\bin\Debug\net8.0\Introdução_ao_C#-Part.1.exe
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\bin\Debug\net8.0\Introdução_ao_C#-Part.1.deps.json
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\bin\Debug\net8.0\Introdução_ao_C#-Part.1.runtimeconfig.json
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\bin\Debug\net8.0\Introdução_ao_C#-Part.1.dll
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\bin\Debug\net8.0\Introdução_ao_C#-Part.1.pdb
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\Introdução_ao_C#-Part.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\Introdução_ao_C#-Part.1.AssemblyInfoInputs.cache
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\Introdução_ao_C#-Part.1.AssemblyInfo.cs
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\Introdução_ao_C#-Part.1.csproj.CoreCompileInputs.cache
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\Introdução_ao_C#-Part.1.dll
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\refint\Introdução_ao_C#-Part.1.dll
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\Introdução_ao_C#-Part.1.pdb
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\Introdução_ao_C#-Part.1.genruntimeconfig.cache
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\ref\Introdução_ao_C#-Part.1.dll
