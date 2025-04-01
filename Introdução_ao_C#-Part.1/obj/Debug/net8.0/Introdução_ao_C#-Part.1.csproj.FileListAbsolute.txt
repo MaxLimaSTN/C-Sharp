@@ -12,3 +12,4 @@ C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj
 C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\Introdução_ao_C#-Part.1.pdb
 C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\Introdução_ao_C#-Part.1.genruntimeconfig.cache
 C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\ref\Introdução_ao_C#-Part.1.dll
+C:\Users\limaa\OneDrive\Área de Trabalho\facul\C#\Introdução_ao_C#-Part.1\obj\Debug\net8.0\Introdução_ao_C#-Part.1.sourcelink.json
